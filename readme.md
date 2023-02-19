@@ -1,0 +1,1 @@
+Simple Gallery Using Html and Css demonstrating the use of css flexbox and other properties of css 
